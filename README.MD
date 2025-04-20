@@ -86,4 +86,3 @@ python soft_sub.py "film.mkv" "francais.srt" "film_final.mkv" fra "[French]"
 ## 📜 Licence
 
 Ce projet est open-source — faites-en bon usage !
-```
